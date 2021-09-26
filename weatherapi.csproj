@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+	<UserSecretsId>weather-api-11c7d95f-6c05-41bf-a351-4c89951e26d9</UserSecretsId>
   </PropertyGroup>
-
-
 </Project>
